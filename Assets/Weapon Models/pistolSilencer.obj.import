@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/pistolSilencer.obj-b78e5c9f70d1764b28a7a00f5c7e4376.mesh"
+
+[deps]
+
+files=[ "res://.import/pistolSilencer.obj-b78e5c9f70d1764b28a7a00f5c7e4376.mesh" ]
+
+source_file="res://Assets/Weapon Models/pistolSilencer.obj"
+dest_files=[ "res://.import/pistolSilencer.obj-b78e5c9f70d1764b28a7a00f5c7e4376.mesh", "res://.import/pistolSilencer.obj-b78e5c9f70d1764b28a7a00f5c7e4376.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

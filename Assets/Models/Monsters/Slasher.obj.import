@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Slasher.obj-c8fa359909d54293595ae523214a01e6.mesh"
+
+[deps]
+
+files=[ "res://.import/Slasher.obj-c8fa359909d54293595ae523214a01e6.mesh" ]
+
+source_file="res://Assets/Models/Monsters/Slasher.obj"
+dest_files=[ "res://.import/Slasher.obj-c8fa359909d54293595ae523214a01e6.mesh", "res://.import/Slasher.obj-c8fa359909d54293595ae523214a01e6.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

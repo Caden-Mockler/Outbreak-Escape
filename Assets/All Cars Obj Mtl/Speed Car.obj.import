@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Speed Car.obj-fd7090dbc429161d6ef3c94f15db67d4.mesh"
+
+[deps]
+
+files=[ "res://.import/Speed Car.obj-fd7090dbc429161d6ef3c94f15db67d4.mesh" ]
+
+source_file="res://Assets/All Cars Obj Mtl/Speed Car.obj"
+dest_files=[ "res://.import/Speed Car.obj-fd7090dbc429161d6ef3c94f15db67d4.mesh", "res://.import/Speed Car.obj-fd7090dbc429161d6ef3c94f15db67d4.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

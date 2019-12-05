@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/modularBuildings_017.obj-a283eb9041bfa13974f047a9da93df31.mesh"
+
+[deps]
+
+files=[ "res://.import/modularBuildings_017.obj-a283eb9041bfa13974f047a9da93df31.mesh" ]
+
+source_file="res://Assets/Building Textures/modularBuildings_017.obj"
+dest_files=[ "res://.import/modularBuildings_017.obj-a283eb9041bfa13974f047a9da93df31.mesh", "res://.import/modularBuildings_017.obj-a283eb9041bfa13974f047a9da93df31.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

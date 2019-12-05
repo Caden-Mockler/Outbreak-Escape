@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/16942_nuclear_warhead_V1.obj-47a4dd3de20470e2d807c29da794ccbc.mesh"
+
+[deps]
+
+files=[ "res://.import/16942_nuclear_warhead_V1.obj-47a4dd3de20470e2d807c29da794ccbc.mesh" ]
+
+source_file="res://Assets/Other/16942_nuclear_warhead_V1.obj"
+dest_files=[ "res://.import/16942_nuclear_warhead_V1.obj-47a4dd3de20470e2d807c29da794ccbc.mesh", "res://.import/16942_nuclear_warhead_V1.obj-47a4dd3de20470e2d807c29da794ccbc.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/BackgroundScreams.ogg-29733740d44c259105eb1bb7d671034d.oggstr"
+
+[deps]
+
+source_file="res://BackgroundScreams.ogg"
+dest_files=[ "res://.import/BackgroundScreams.ogg-29733740d44c259105eb1bb7d671034d.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

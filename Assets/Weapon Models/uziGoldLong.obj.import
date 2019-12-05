@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/uziGoldLong.obj-72cd2fe0093624daa9ac0ee2f868908f.mesh"
+
+[deps]
+
+files=[ "res://.import/uziGoldLong.obj-72cd2fe0093624daa9ac0ee2f868908f.mesh" ]
+
+source_file="res://Assets/Weapon Models/uziGoldLong.obj"
+dest_files=[ "res://.import/uziGoldLong.obj-72cd2fe0093624daa9ac0ee2f868908f.mesh", "res://.import/uziGoldLong.obj-72cd2fe0093624daa9ac0ee2f868908f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

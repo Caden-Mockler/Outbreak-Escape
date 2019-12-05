@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Cartoon_Lowpoly_Car.obj-037bb4ed00e7598c6ae2a958daa7298c.mesh"
+
+[deps]
+
+files=[ "res://.import/Cartoon_Lowpoly_Car.obj-037bb4ed00e7598c6ae2a958daa7298c.mesh" ]
+
+source_file="res://Assets/Models/Cartoon_Lowpoly_Car.obj"
+dest_files=[ "res://.import/Cartoon_Lowpoly_Car.obj-037bb4ed00e7598c6ae2a958daa7298c.mesh", "res://.import/Cartoon_Lowpoly_Car.obj-037bb4ed00e7598c6ae2a958daa7298c.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

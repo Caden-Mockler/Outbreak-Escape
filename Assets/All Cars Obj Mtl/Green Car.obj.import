@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Green Car.obj-29ecef663de076c56bf1c1a81228dfc5.mesh"
+
+[deps]
+
+files=[ "res://.import/Green Car.obj-29ecef663de076c56bf1c1a81228dfc5.mesh" ]
+
+source_file="res://Assets/All Cars Obj Mtl/Green Car.obj"
+dest_files=[ "res://.import/Green Car.obj-29ecef663de076c56bf1c1a81228dfc5.mesh", "res://.import/Green Car.obj-29ecef663de076c56bf1c1a81228dfc5.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true
